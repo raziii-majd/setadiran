@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test_Azured\\SetadIran\\SetadIran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|d:\\test_azured\\setadiran\\setadiran\\setadiran\\model\\advertising_public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|solutionrelative:setadiran\\model\\advertising_public.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|d:\\test_azured\\setadiran\\setadiran\\setadiran\\service\\htmlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|solutionrelative:setadiran\\service\\htmlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|d:\\test_azured\\setadiran\\setadiran\\setadiran\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|solutionrelative:setadiran\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|d:\\test_azured\\setadiran\\setadiran\\setadiran\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4B4949-40CA-4034-B156-7DF60DC36D72}|SetadIran\\SetadIran.csproj|solutionrelative:setadiran\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\Operations.cs",
+              "RelativeDocumentMoniker": "SetadIran\\Operations.cs",
+              "ToolTip": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\Operations.cs",
+              "RelativeToolTip": "SetadIran\\Operations.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAASwE8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:14:45.13Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\HomePage.cs",
+              "RelativeDocumentMoniker": "SetadIran\\HomePage.cs",
+              "ToolTip": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\HomePage.cs",
+              "RelativeToolTip": "SetadIran\\HomePage.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAzwC4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:36:43.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTMLServices.cs",
+              "DocumentMoniker": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\Service\\HTMLServices.cs",
+              "RelativeDocumentMoniker": "SetadIran\\Service\\HTMLServices.cs",
+              "ToolTip": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\Service\\HTMLServices.cs",
+              "RelativeToolTip": "SetadIran\\Service\\HTMLServices.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwFIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:19:14.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Advertising_Public.cs",
+              "DocumentMoniker": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\Model\\Advertising_Public.cs",
+              "RelativeDocumentMoniker": "SetadIran\\Model\\Advertising_Public.cs",
+              "ToolTip": "D:\\test_Azured\\SetadIran\\SetadIran\\SetadIran\\Model\\Advertising_Public.cs",
+              "RelativeToolTip": "SetadIran\\Model\\Advertising_Public.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:40:51.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
